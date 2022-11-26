@@ -4,7 +4,7 @@
 # Решение
 На гитхабе [репозиторий](https://github.com/allseenn/web/blob/main/02.Tasks/index.html)
 
-На сервере [www.allseen.ru](http://allseen.ru)
+На сервере [www.allseen.ru](https://allseen.ru)
 
 Создал страницу с моим любимым животным Драконом.
 
