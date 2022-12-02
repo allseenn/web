@@ -8,6 +8,6 @@ CREATE TABLE students (
   age INTEGER,
   address TEXT
 ); 
--- show only first record for Personal Data (GDPR) reasons
-INSERT INTO students VALUES (1, 'Ростислав Ромашин', 46, 'Москва');
+-- show only zero record for Personal Data (GDPR) reasons
+INSERT INTO students VALUES (0, 'Ростислав Ромашин', 46, 'Москва');
 -- mysql -u username -p db_name < file.sql
